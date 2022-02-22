@@ -73,6 +73,10 @@ nav li a{
     color: #FFFFFF;
     font-weight: bold;
 }
+.btn-format .fas{
+    margin-left: 20px;
+    color: #F3F1FF;
+}
 
 .start-journey-right img{
     width: 60%;
@@ -90,7 +94,7 @@ nav li a{
     justify-content: space-between;
     align-items: center;
     padding-top: 42px;
-    border: black solid 1px;
+    
 } 
 
 /* popular collection */
@@ -144,6 +148,16 @@ nav li a{
     font-weight: lighter;
     color: #787885;
     margin-top: 10px;
+}
+.see-more{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 71px;
+    }
+.see-more .fas{
+    margin-left: 15px;
 }
 /* feature section */
 .feature{
