@@ -46,7 +46,7 @@ nav li a{
 
 /* Start Journey Section */
 .start-journey{
-    background-color: antiquewhite;
+    
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
